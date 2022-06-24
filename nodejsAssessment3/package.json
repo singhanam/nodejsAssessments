@@ -1,0 +1,20 @@
+{
+  "name": "area-calculator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "index"
+  ],
+  "author": "Anamika",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "area": "^0.0.2",
+    "area-calculator": "^1.1.0",
+    "calculator": "^0.1.12",
+    "express": "^4.18.1"
+  }
+}
